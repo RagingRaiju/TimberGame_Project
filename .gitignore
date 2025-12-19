@@ -1,0 +1,40 @@
+# Visual Studio build artifacts
+.vs/
+*.suo
+*.user
+*.ipch
+*.obj
+*.log
+*.tlog
+*.pdb
+*.idb
+*.db
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.ilk
+*.cache
+*.lastbuildstate
+*.exe.recipe
+
+# Project build folders
+Debug/
+Release/
+build/
+bin/
+
+# SFML runtime DLLs
+*.dll
+
+# Visual Studio project files (optional)
+*.vcxproj.user
+*.sln
+
+# Game assets (keep these!)
+!Fonts/
+!Graphics/
+!Sound/
+
+# OS-specific junk
+*.DS_Store
+Thumbs.db
